@@ -522,3 +522,6 @@ clear
 ./salon.sh
 ./salon.sh
 ./salon.sh
+clear
+git init
+git add .
